@@ -5,20 +5,10 @@
 Gender-Diversity-and-Revenue-Analysis/
 ├─ README.md
 ├─ notebooks/
-│  ├─ analysis.ipynb            # upload when ready
+│  ├─ analysis.ipynb        
 │  └─ .gitkeep
 ├─ data/
-│  ├─ PROJECTDATASET.xlsx       # upload when ready
+│  ├─ PROJECTDATASET.xlsx      
 │  └─ README.md
-├─ reports/
-│  ├─ figures/
-│  │  └─ .gitkeep
-│  └─ tables/
-│     └─ .gitkeep
-└─ tableau/
-   ├─ dashboards.twbx           # upload when ready
-   ├─ exports/
-   │  └─ .gitkeep
-   └─ README.md
 
 ```
