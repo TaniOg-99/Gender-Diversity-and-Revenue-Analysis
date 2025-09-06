@@ -4,7 +4,7 @@
 ```
 Gender-Diversity-and-Revenue-Analysis/
 ├─ README.md
-├─ notebooks/
+├─ python notebook/
 │  ├─ analysis.ipynb        
 │  └─ .gitkeep
 ├─ data/
